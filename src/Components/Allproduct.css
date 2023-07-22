@@ -1,0 +1,28 @@
+.mainproduct{
+    position: absolute;
+    top: 0px;
+    left:350px;
+    color: white !important;
+    overflow: hidden !important;
+    
+
+}
+
+
+
+
+.mainproduct table{
+    border: 4px solid green;
+    
+
+}
+
+
+table th{
+    
+}
+
+
+.styled-table{
+    background-color: rgb(12, 12, 2);
+}
